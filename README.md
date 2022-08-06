@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Allison
 - 👀 I’m interested in robotics, machine learning, embedded computing and computer vision
-- 🌱 I’m currently learning ROS and OpenCV
-- 💞️ I’m looking to collaborate on robotics projects
+- 🌱 I’m currently learning ROS2 and Tensorflow
 - 📫 greendev32@gmail.com
 
 <!---
